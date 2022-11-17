@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b142b8f355605b4dbf268cc186fff4b
+timeCreated: 1517077610
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sangre: {fileID: 1044601431266226, guid: 4c207a2e534fac44ab09653c4ee50cf0, type: 2}
+  - Explosion: {fileID: 1952668281754950, guid: 644d91f99709d174bb81963769f28df8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
